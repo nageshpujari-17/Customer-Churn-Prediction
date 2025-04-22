@@ -31,7 +31,7 @@ To run the project locally, follow these steps:
 - Scikit-learn: Machine learning toolkit for model training and evaluation.
 
 ## Project URL
-- [](https://customer-churn-prediction-z2di.onrender.com/)
+- [Link](https://customer-churn-prediction-z2di.onrender.com/)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
